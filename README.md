@@ -1,5 +1,5 @@
 # Travel-Management-System
-A Java-based desktop application (likely built with NetBeans) for managing travel-related operations such as destinations, bookings, and customer information. The repository contains compiled .class files, image assets for the UI, and a README (undisplayed here).
+A Java-based desktop application (built with Intillij IDEA) for managing travel-related operations such as destinations, bookings, and customer information. The repository contains compiled .class files, image assets for the UI, and a README (undisplayed here).
 
 Key Points
 
